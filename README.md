@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Shenzhen University 
+- 🌱 I’m currently learning computer vision and deep learning
+- 🤔 I'm a computer science master student and good at programming
+- 😄 I'd like to share some algorithms that might make sense in looking for a relative job
+- 💬 Aks me about the code in C++ or Go
+- 📫 I'm also a linguist and can speak four languages like Chinese,English,Japanese,Kerean
+- 👯 Hope learn something from here....
